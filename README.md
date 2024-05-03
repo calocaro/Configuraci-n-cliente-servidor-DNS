@@ -184,15 +184,16 @@ Para levantar el servicio debemos utilizar el comando desde la ubicación que se
 ```
 docker-compose up
 ```
+![Comprobación](https://github.com/calocaro/Configuraci-n-cliente-servidor-DNS/blob/codespace-animated-space-spoon-jvpxg7p564529g6/imagen1.png)
+
 
 Si deseamos que se ejecute en segundo plano podemos añadirle el parámetro ***-d*** quedando un resultado tal que así:
 
 ```
 docker-compose up -d
 ```
-
+![Comprobación](https://github.com/calocaro/Configuraci-n-cliente-servidor-DNS/blob/codespace-animated-space-spoon-jvpxg7p564529g6/Imagen2.png)
 # Comprobación del funcionamiento DNS
 
 Realizamos ping desde el servicio **alpine** al servicio de **bind9** para comprobar si el servicio está funcionando correctamente.
-![Comprobación](https://github.com/calocaro/Configuraci-n-cliente-servidor-DNS/blob/codespace-animated-space-spoon-jvpxg7p564529g6/Imagen2.png)
-![Comprobación](https://github.com/calocaro/Configuraci-n-cliente-servidor-DNS/blob/codespace-animated-space-spoon-jvpxg7p564529g6/imagen1.png)
+
