@@ -194,3 +194,4 @@ docker-compose up -d
 # Comprobación del funcionamiento DNS
 
 Realizamos ping desde el servicio **alpine** al servicio de **bind9** para comprobar si el servicio está funcionando correctamente.
+![Comprobación](C:\Users\carol\OneDrive\Imágenes\Capturas de pantalla\Imagen1.png)
