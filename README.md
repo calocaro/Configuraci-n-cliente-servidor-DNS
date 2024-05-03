@@ -1,4 +1,3 @@
-# Configuracion-cliente-servidor-DNS
 # Práctica Recuperación - DNS Linux
 
 # Imágenes necesarias
