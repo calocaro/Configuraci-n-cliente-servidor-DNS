@@ -75,7 +75,7 @@ _Posteriormente a tenerla creada ya podemos asignarle una ip concreta dentro del
 
 # Creación fichero de configuración
 
-Para crear el fichero de configuración para bind9 no tomaremos como referencia el que figura en [GuíaBind9](https://ubuntu.com/server/docs/service-domain-name-service-dns) si no que dividiremos el fichero de configuración en dos, en ```named.conf.local``` (contiene la configuración de la zona DNS) y ```named.conf.options``` (contiene la configuración del servidor bind9) lo cual lo especificaremos en otro fichero más denominado ```named.conf```
+Para crear el fichero de configuración para bind9 no tomaremos como referencia el que figura en GuíaBind9. si no que dividiremos el fichero de configuración en dos, en ```named.conf.local``` (contiene la configuración de la zona DNS) y ```named.conf.options``` (contiene la configuración del servidor bind9) lo cual lo especificaremos en otro fichero más denominado ```named.conf```
 
 En ```named.conf``` indicamos esta configuración principal:
 
