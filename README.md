@@ -1,1 +1,1 @@
-# Configuraci-n-cliente-servidor-DNS
+# Configuracion-cliente-servidor-DNS
