@@ -194,5 +194,5 @@ docker-compose up -d
 # Comprobación del funcionamiento DNS
 
 Realizamos ping desde el servicio **alpine** al servicio de **bind9** para comprobar si el servicio está funcionando correctamente.
-![Comprobación](https://github.com/calocaro/Configuraci-n-cliente-servidor-DNS/blob/codespace-animated-space-spoon-jvpxg7p564529g6/Imagen1.png)
+![Comprobación](https://github.com/calocaro/Configuraci-n-cliente-servidor-DNS/blob/codespace-animated-space-spoon-jvpxg7p564529g6/Imagen2.png)
 ![Comprobación](https://github.com/calocaro/Configuraci-n-cliente-servidor-DNS/blob/codespace-animated-space-spoon-jvpxg7p564529g6/imagen1.png)
